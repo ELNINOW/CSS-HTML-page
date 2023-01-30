@@ -1,0 +1,89 @@
+body{
+    margin:0;
+    text-align: center;
+    
+    font-family: 'Sacramento', cursive;
+   
+
+
+}
+
+h1{
+ 
+color: rgb(98, 233, 231);
+font-weight: normal;
+    margin-top: 80px;
+
+    font-family: 'Sacramento', cursive;
+    font-size: 6rem;
+    font-weight: bold;
+    
+
+   
+}
+
+h2{
+    color:rgb(122, 206, 206);
+    margin-top: 0px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 2.22rem;
+    font-weight: bold;
+    
+
+
+}
+h3{
+    margin-top: 0px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    
+
+
+}
+
+p{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.top-container{
+    outline: none;
+
+    background-color: rgb(206, 247, 247);
+    width: 1600px;
+    height: 600px;
+    padding-top: 100px;
+    position: relative;
+    
+
+
+}
+.middle-container{
+    outline: none;
+
+    background-color: rgb(164, 185, 204);
+    width: 1600px;
+    height: 600px;
+
+
+}
+.bottom-container{
+
+    background-color: rgb(168, 203, 180);
+    width: 1600px;
+    height: 200px;
+    outline: none;
+
+
+}
+.top-cloud{
+    position:absolute;
+    margin-left: 230px;
+    margin-top: 0px;
+
+
+}
+.bottom-cloud{
+    position:absolute;
+    outline: none;
+
+}
